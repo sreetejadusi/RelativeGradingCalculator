@@ -33,13 +33,13 @@ pip install numpy pandas
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/relative-grading-system.git
-    cd relative-grading-system
+    git clone https://github.com/sreetejadusi/RelativeGradingCalculator.git
+    cd RelativeGradingCalculator
     ```
 2. Prepare a list of student marks in a text or CSV file, or edit the array of marks directly in the code.
 3. Run the script:
     ```bash
-    python relative_grading.py
+    python main.py
     ```
 
 The script will display the grade distribution along with the corresponding grade points for each student.
